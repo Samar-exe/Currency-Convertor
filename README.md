@@ -16,7 +16,6 @@ then simply open the index.html file in any browser and use it!!.
 
 ## How It looks Like
 
-![ERROR 404](rc.png)
-----------
-----------
-![ERROR 404](rc2.png)
+## C:\Users\HELLO\Desktop\Javascript Practice\rc.png
+
+C:\Users\HELLO\Desktop\Javascript Practice\rc2.png
