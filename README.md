@@ -15,7 +15,3 @@ git clone "https://github.com/Samar-exe/Currency-Convertor.git"
 then simply open the index.html file in any browser and use it!!.
 
 ## How It looks Like
-
-## C:\Users\HELLO\Desktop\Javascript Practice\rc.png
-
-C:\Users\HELLO\Desktop\Javascript Practice\rc2.png
